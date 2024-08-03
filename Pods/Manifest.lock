@@ -1,0 +1,30 @@
+PODS:
+  - SDWebImage (5.19.2):
+    - SDWebImage/Core (= 5.19.2)
+  - SDWebImage/Core (5.19.2)
+  - SQLite.swift (0.15.3):
+    - SQLite.swift/standard (= 0.15.3)
+  - SQLite.swift/standard (0.15.3)
+  - SVProgressHUD (2.3.1):
+    - SVProgressHUD/Core (= 2.3.1)
+  - SVProgressHUD/Core (2.3.1)
+
+DEPENDENCIES:
+  - SDWebImage
+  - SQLite.swift
+  - SVProgressHUD
+
+SPEC REPOS:
+  trunk:
+    - SDWebImage
+    - SQLite.swift
+    - SVProgressHUD
+
+SPEC CHECKSUMS:
+  SDWebImage: dfe95b2466a9823cf9f0c6d01217c06550d7b29a
+  SQLite.swift: 8d054987f02728cc912b0eb5a9659650573a65a2
+  SVProgressHUD: 4837c74bdfe2e51e8821c397825996a8d7de6e22
+
+PODFILE CHECKSUM: 43c7352fbd1379e7855887cffed971807aa9538d
+
+COCOAPODS: 1.15.2
